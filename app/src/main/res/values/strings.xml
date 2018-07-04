@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CountApp</string>
+    <string name="btn_Increment">＋</string>
+    <string name="text_zero">0</string>
+    <string name="btn_Decrement">ー</string>
+    <string name="btn_Clear">クリア</string>
+</resources>
